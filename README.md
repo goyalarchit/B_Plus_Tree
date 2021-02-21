@@ -60,8 +60,8 @@ Write outputs of the corresponding queries in command-line.
 ### Directory Structure
 1. PrettyPrint.h - Declares a class called ```BPTreePrinter``` which gives a print function which pretty prints the tree. 
 2. PrettyPrint.cpp - Implements the class ```BPTreePrinter```.
-3. PrettyPrint.h - Declares classes called ```Node, BPTree``` which defines a B+ Tree node and B+ Tree.
-4. PrettyPrint.cpp - Implements the class ```Node, BPTree```.
+3. BPTree.h - Declares classes called ```Node, BPTree``` which defines a B+ Tree node and B+ Tree.
+4. BPTree.cpp - Implements the class ```Node, BPTree```.
 5. main.cpp - The Driver Program. 
 6. test_data/ - Director Containing Test input files and Test Case Generators.
 
